@@ -30,6 +30,3 @@ latent_analysis/
 *.out
 *.synctex.gz
 *.toc
-
-# PDFs built locally
-paper/*.pdf
