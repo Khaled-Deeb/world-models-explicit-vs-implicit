@@ -1,0 +1,35 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.venv_dreamer_gpu/
+.vscode/
+.idea/
+
+# Large generated artifacts
+runs/
+outputs/
+logs/
+replay/
+ckpt/
+models/
+wandb/
+latent_analysis/
+*.npz
+*.npy
+*.pt
+*.ckpt
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# PDFs built locally
+paper/*.pdf

@@ -1,0 +1,6 @@
+Dreamer | target=reward | R2=0.7666 | MAE=0.0341 | n_train=159668 | n_test=39916
+Dreamer | target=pole_angle | R2=0.4715 | MAE=1.3647 | n_train=159668 | n_test=39916
+Dreamer | target=cart_position | R2=0.7993 | MAE=0.2831 | n_train=159668 | n_test=39916
+TD-MPC2 | target=reward | R2=1.0000 | MAE=0.0007 | n_train=20000 | n_test=5000
+TD-MPC2 | target=pole_angle | R2=0.9429 | MAE=0.0496 | n_train=20000 | n_test=5000
+TD-MPC2 | target=cart_position | R2=1.0000 | MAE=0.0000 | n_train=20000 | n_test=5000

@@ -1,0 +1,7 @@
+Grid max step: 95000
+Dreamer final mean @95k: 38.6377
+Dreamer final 95% CI half-width @95k: 4.0149
+TD-MPC2 final mean @95k: 972.4619
+TD-MPC2 final 95% CI half-width @95k: 5.3626
+Dreamer best mean on grid: 38.7041
+TD-MPC2 best mean on grid: 972.4619
