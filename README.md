@@ -1,4 +1,4 @@
-# Explicit vs. Implicit World Models for Continuous Control
+# A Lightweight Empirical Comparison of Dreamer-Style and TD-MPC2-Style World Models for Continuous Control
 
 This repository contains the code, analysis scripts, selected checkpoints, curated results, and ICML-style report for a lightweight comparison between two world-model paradigms for decision making:
 
