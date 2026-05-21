@@ -35,7 +35,7 @@ The study focuses on **state-based continuous control** in DMControl, with:
     └── tdmpc2/
 ```
 
-- `paper/` — ICML-style report source and paper assets
+- `paper/` — conference paper draft
 - `scripts/train/` — training wrapper scripts
 - `scripts/plotting/` — scripts used to generate learning-curve figures
 - `scripts/extraction/` — scripts used to extract latent states from trained models
