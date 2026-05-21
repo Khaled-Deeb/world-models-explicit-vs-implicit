@@ -1,6 +1,6 @@
 # A Lightweight Empirical Comparison of Dreamer-Style and TD-MPC2-Style World Models for Continuous Control
 
-This repository contains the code, analysis scripts, selected checkpoints, curated results, and ICML-style report for a lightweight comparison between two world-model paradigms for decision making:
+This repository contains the code, analysis scripts, selected checkpoints, curated results, and conference paper draft for a lightweight comparison between two world-model paradigms for decision making:
 
 - **Explicit world model**: a Dreamer-style agent based on an RSSM with imagined latent rollouts
 - **Implicit world model**: a TD-MPC2-style agent based on latent consistency, value estimation, and latent-space planning
@@ -381,7 +381,7 @@ The repo instead contains:
 
 ## Paper
 
-The ICML-style paper source is in:
+The paper draft and paper assets are in:
 
 ```text
 paper/
